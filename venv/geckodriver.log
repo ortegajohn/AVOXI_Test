@@ -1,0 +1,39 @@
+1550959112996	geckodriver	INFO	geckodriver 0.20.0
+1550959113014	geckodriver	INFO	Listening on 127.0.0.1:61409
+1550959116002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Goku\\AppData\\Local\\Temp\\rust_mozprofile.uW6LsRmx8y5y"
+1550959116677	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Goku\AppData\Local\openvr\openvrpaths.vrpath
+1550959117691	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Goku\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Goku\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Goku\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Goku\AppData\Local\openvr\openvrpaths.vrpath
+1550959121842	Marionette	INFO	Listening on port 61425
+1550959122247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550959122364	Marionette	DEBUG	Register listener.js for window 6442450945
+1550959122435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550959122747	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550959122747	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550959125060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shoppingcart-staging.avoxi.io/"
+1550959125618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450949"
+1550959126309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450951"
+1550959126345	Marionette	DEBUG	Received DOM event "pageshow" for "https://shoppingcart-staging.avoxi.io/"
+1550959133951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550959136240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550959138642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550959143611	geckodriver::marionette	ERROR	Failed to stop browser process

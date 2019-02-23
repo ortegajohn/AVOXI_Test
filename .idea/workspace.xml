@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0766fc99-4493-43e2-9a8e-42c1f5b7986a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-736749179">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="123" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.117" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.141" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="6" />
+          <entry key="project.open.time.24" value="5" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="12" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.29" value="9" />
+          <entry key="project.open.time.30" value="10" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.32" value="7" />
+          <entry key="project.open.time.33" value="5" />
+          <entry key="project.open.time.34" value="5" />
+          <entry key="project.open.time.35" value="4" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="5" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.51" value="2" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.58" value="2" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.93" value="2" />
+          <entry key="project.opened" value="128" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="1" />
+          <entry key="py" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="17451" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="17451" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="671640151">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/AVOXI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="e#1#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coldwater canyon</find>
+      <find>42</find>
+      <find>4419</find>
+      <find>span itemprop=&quot;streetAddress&quot;</find>
+      <find>component_ab-sort clearfix</find>
+      <find>doIHaveToCopyTheLine = False</find>
+      <find>class</find>
+      <find>ce&quot;&gt;$189,490&lt;/span&gt;&lt;span class=</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/OpenFirefox.py" />
+        <option value="$PROJECT_DIR$/venv/OpenChrome.py" />
+        <option value="$PROJECT_DIR$/venv/Chrome_GaMls.py" />
+        <option value="$PROJECT_DIR$/venv/Nest_ForLoop.py" />
+        <option value="$PROJECT_DIR$/venv/ReadTxtFile2.py" />
+        <option value="$PROJECT_DIR$/venv/Py4Dummies.py" />
+        <option value="$PROJECT_DIR$/venv/PageSourceTX.py" />
+        <option value="$PROJECT_DIR$/venv/PageSourceAZ.py" />
+        <option value="$PROJECT_DIR$/venv/tribonacci.py" />
+        <option value="$PROJECT_DIR$/venv/CodeAccademy.py" />
+        <option value="$PROJECT_DIR$/venv/CodeWars2.py" />
+        <option value="$PROJECT_DIR$/venv/ReadTxtFile.py" />
+        <option value="$PROJECT_DIR$/venv/BaseToBase.py" />
+        <option value="$PROJECT_DIR$/venv/BaseToBase1.py" />
+        <option value="$PROJECT_DIR$/venv/Testing.py" />
+        <option value="$PROJECT_DIR$/venv/BaseToBase2.py" />
+        <option value="$PROJECT_DIR$/venv/BaseToBase3.py" />
+        <option value="$PROJECT_DIR$/venv/CodeWars1.py" />
+        <option value="$PROJECT_DIR$/venv/ReadTxtFileAZ.py" />
+        <option value="$PROJECT_DIR$/venv/br.py" />
+        <option value="$PROJECT_DIR$/venv/ReadTxtFileBZ.py" />
+        <option value="$PROJECT_DIR$/venv/codecademy.py" />
+        <option value="$PROJECT_DIR$/venv/PageSourceAZ1.py" />
+        <option value="$PROJECT_DIR$/venv/PageSource_Zillow.py" />
+        <option value="$PROJECT_DIR$/venv/ReadTxtFile_Zillow.py" />
+        <option value="$PROJECT_DIR$/venv/PageSource.py" />
+        <option value="$PROJECT_DIR$/venv/AVOXI.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="92" />
+    <option name="y" value="106" />
+    <option name="width" value="1225" />
+    <option name="height" value="588" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AVOXI_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AVOXI_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AVOXI_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AVOXI_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="prefer&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Goku\PycharmProjects\untitled1\venv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.AVOXI">
+    <configuration name="AVOXI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/AVOXI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PageSource" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/PageSource.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PageSource_Zillow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/PageSource_Zillow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadTxtFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ReadTxtFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadTxtFile_Zillow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/ReadTxtFile_Zillow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PageSource" />
+      <item itemvalue="Python.ReadTxtFile" />
+      <item itemvalue="Python.PageSource_Zillow" />
+      <item itemvalue="Python.ReadTxtFile_Zillow" />
+      <item itemvalue="Python.AVOXI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AVOXI" />
+        <item itemvalue="Python.ReadTxtFile" />
+        <item itemvalue="Python.PageSource" />
+        <item itemvalue="Python.ReadTxtFile_Zillow" />
+        <item itemvalue="Python.PageSource_Zillow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0766fc99-4493-43e2-9a8e-42c1f5b7986a" name="Default Changelist" comment="" />
+      <created>1532653806853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532653806853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="92" y="106" width="1225" height="588" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4965278" visible="true" weight="0.14911541" />
+      <window_info id="Structure" order="1" sideWeight="0.5034722" side_tool="true" weight="0.21501707" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44493392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679357" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32976446" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32949308" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.25832012" />
+      <window_info id="Structure" order="1" sideWeight="0.5013624" side_tool="true" weight="0.26628664" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28070176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39960238" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/ReadTxtFile2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Nest_ForLoop.py" />
+    <entry file="file://$PROJECT_DIR$/venv/OpenFirefox.py" />
+    <entry file="file://$PROJECT_DIR$/venv/OpenChrome.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Chrome_GaMls.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Py4Dummies.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PageSourceAZ.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PageSourceTX.py" />
+    <entry file="file://$PROJECT_DIR$/venv/CodeAccademy.py" />
+    <entry file="file://$PROJECT_DIR$/venv/tribonacci.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-822">
+          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/CodeWars2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/queue_time.py" />
+    <entry file="file://$PROJECT_DIR$/venv/BaseToBase1.py" />
+    <entry file="file://$PROJECT_DIR$/venv/BaseToBase.py" />
+    <entry file="file://$PROJECT_DIR$/venv/BaseToBase2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Testing.py" />
+    <entry file="file://$PROJECT_DIR$/venv/BaseToBase3.py" />
+    <entry file="file://$PROJECT_DIR$/venv/CodeWars1.py" />
+    <entry file="file://$PROJECT_DIR$/venv/codecademy.py" />
+    <entry file="file://$PROJECT_DIR$/venv/br.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PageSource_Zillow.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PageSourceAZ1.py" />
+    <entry file="file://$PROJECT_DIR$/venv/ReadTxtFileBZ.py" />
+    <entry file="file://$PROJECT_DIR$/venv/ReadTxtFileAZ.py" />
+    <entry file="file://$PROJECT_DIR$/venv/ReadTxtFile.py" />
+    <entry file="file://$PROJECT_DIR$/venv/ReadTxtFile_Zillow.py" />
+    <entry file="file://$PROJECT_DIR$/venv/PageSource.py" />
+    <entry file="file://$PROJECT_DIR$/venv/AVOXI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
